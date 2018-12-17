@@ -1,0 +1,57 @@
+#Menu_Navigasi {
+	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	overflow: hidden;
+  	background-color: #708090;
+}
+
+#Menu_Navigasi li {
+	float: left;
+}
+
+#Menu_Navigasi li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+#Menu_Navigasi li a:hover {
+	background-color: #A9A9A9;
+	color: black;
+}
+
+.tombol {
+	margin-top: 20px;
+	text-decoration: none;
+	background: #FF4500;
+	color: white;
+}
+
+.tombol:hover {
+	background: #F5DEB3;
+	color: black;
+}
+
+.halaman {
+	background: azure;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 3px;
+}
+
+.judul {
+	background: #708090;
+	border-radius: 3px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: black;
+}
